@@ -33,7 +33,7 @@ This Python script automates the process of converting text to speech using a we
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11.4
 - Selenium WebDriver
 - WebDriverManager
 - Google Chrome

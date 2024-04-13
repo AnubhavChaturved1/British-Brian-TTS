@@ -1,6 +1,6 @@
 # Text-to-Speech (TTS) Automation
 
-![Script in Action](screenshot.png)
+![Script in Action](https://github.com/AnubhavChaturved1/British-Brian-TTS/blob/main/Screenshot%202024-04-13%20160030.png)
 
 
 This Python script automates the process of converting text to speech using a web-based TTS service. It utilizes Selenium WebDriver to interact with the website.
